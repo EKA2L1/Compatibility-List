@@ -7,20 +7,21 @@
 
 # EKA2L1 info
 - Build name: ?
-- Buid hash
+- Build hash
 
 # Test environment summary
 - Tested by: ?
 - OS: ?
-- CPU: AMD/Intel?
-- GPU: AMD/NVIDIA/Intel?
+- CPU: AMD/Intel/? (For PC, Ignore if Using an Android Device)
+- GPU: AMD/NVIDIA/Intel? (For PC, Ignore if Using an Android Device)
+- Device Modal: (For Android, Ignore if Using a PC)
 - RAM: ? GB
 
 # Issues
 <!-- Summary of problems -->
 
 # Screenshots
-![](https://?)
+
 
 # Log
 
