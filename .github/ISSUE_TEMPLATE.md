@@ -14,8 +14,9 @@
 - OS: ?
 - CPU: AMD/Intel/? (For PC, Ignore if Using an Android Device)
 - GPU: AMD/NVIDIA/Intel? (For PC, Ignore if Using an Android Device)
+- RAM: ? GB  (For PC, Ignore if Using an Android Device)
 - Device Modal: (For Android, Ignore if Using a PC)
-- RAM: ? GB
+
 
 # Issues
 <!-- Summary of problems -->
