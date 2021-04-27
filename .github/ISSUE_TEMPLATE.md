@@ -7,7 +7,7 @@
 
 # EKA2L1 info
 - Build name: ?
-- Build hash
+- Build hash: ?
 
 # Test environment summary
 - Tested by: ?
@@ -29,3 +29,4 @@
 - A?
 - B?
 - C?
+- D?
