@@ -3,6 +3,7 @@
 
 # App summary
 - App name: ?
+- Developer: ?
 - Platform: ?
 
 # EKA2L1 info
